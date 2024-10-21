@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "If Fiona sold 11 apples and then sold 7 mangoes, how many fruits did she sell in total?",
+        "options": [
+            "16",
+            "18",
+            "17",
+            "19"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Ben baked 15 brownies and 4 cookies. How many items did he bake altogether?",
+        "options": [
+            "18",
+            "20",
+            "19",
+            "17"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3",
+        "question": "If Alice painted 12 pictures of fruits and then painted 6 more, how many fruit-themed pictures did she paint in total?",
+        "options": [
+            "18",
+            "16",
+            "15",
+            "17"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Fiona had 24 oranges on her stall and she received 13 more from the market delivery. How many oranges does Fiona have now?",
+        "options": [
+            "32",
+            "30",
+            "34",
+            "37"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Ben made 37 pastries for the market, and he baked 22 more. How many pastries did Ben make in total?",
+        "options": [
+            "57",
+            "61",
+            "59",
+            "55"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q6",
+        "question": "If Fiona has 40 apples and Ben has 20 muffins, how many items do they have together?",
+        "options": [
+            "60",
+            "58",
+            "62",
+            "56"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Ben had 28 loaves of bread, and he baked 11 more during the day. How many loaves of bread does Ben have now?",
+        "options": [
+            "40",
+            "39",
+            "37",
+            "35"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Alice had 31 paintings displayed, and she added 14 more paintings. How many paintings does Alice have in total?",
+        "options": [
+            "43",
+            "39",
+            "47",
+            "45"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q9",
+        "question": "If Fiona saw 37 customers at her stall, and 42 more came by, how many customers visited her stall?",
+        "options": [
+            "75",
+            "77",
+            "79",
+            "73"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Ben had 53 cupcakes, and he decorated 32 more. How many cupcakes does Ben have now?",
+        "options": [
+            "85",
+            "83",
+            "87",
+            "89"
+        ],
+        "correct": 0
+    }
+]
